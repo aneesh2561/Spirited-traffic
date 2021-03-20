@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <br>
+    <h1><center>Welcome to the Traffic Police Department of India</center></h1><br><h1><center><b>GOVERNMENT OF INDIA</b></center></h1>
+   <h4 style=" cursor: pointer;"onclick="document.location='Secondpiece.html'">HOME</h4>
+    <h5>Copyright © 2019 Unique Identification Authority of India All Rights Reserved</h5>
+    <h5>JavaScript must be enabled to access this site</h5>
+    <h5>Supports : Firefox 37+ Google Chrome 6.0+ Internet Explorer 9.0+ Safari 4.0+</h5>
+</body>
+</html>
